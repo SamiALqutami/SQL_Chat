@@ -16,6 +16,23 @@
             "referral_code": "FJQ5OJVM",
             "last_reward_ts": 0,
             "partner": null
+        },
+        "5437424172": {
+            "user_id": 5437424172,
+            "username": "mohamed_belhsen",
+            "first_name": "Mohamed",
+            "points": 50,
+            "stars_balance": 0,
+            "status": "idle",
+            "gender": "غير محدد",
+            "vip_until": 0,
+            "vip_level": 0,
+            "vip_title": "",
+            "total_chats": 0,
+            "join_ts": 1766693251,
+            "referral_code": "PGXXNQ7Z",
+            "last_reward_ts": 0,
+            "partner": null
         }
     },
     "conversations": [],
