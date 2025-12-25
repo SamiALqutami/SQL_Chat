@@ -1,4 +1,7 @@
 {
     "users": {},
-    "stats": {"total_chats": 0}
+    "stats": {
+        "total_chats": 0,
+        "daily_new_users": 0
+    }
 }
