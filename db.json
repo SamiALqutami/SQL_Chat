@@ -50,6 +50,23 @@
             "referral_code": "9PYMDG59",
             "last_reward_ts": 0,
             "partner": null
+        },
+        "7130811058": {
+            "user_id": 7130811058,
+            "username": "",
+            "first_name": "M.a.a",
+            "points": 50,
+            "stars_balance": 0,
+            "status": "idle",
+            "gender": "غير محدد",
+            "vip_until": 0,
+            "vip_level": 0,
+            "vip_title": "",
+            "total_chats": 0,
+            "join_ts": 1766696908,
+            "referral_code": "56AMGGWI",
+            "last_reward_ts": 0,
+            "partner": null
         }
     },
     "conversations": [],
