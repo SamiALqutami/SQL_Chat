@@ -57,12 +57,12 @@
             "first_name": "M.a.a",
             "points": 50,
             "stars_balance": 0,
-            "status": "idle",
+            "status": "chatting",
             "gender": "غير محدد",
             "vip_until": 0,
             "vip_level": 0,
             "vip_title": "",
-            "total_chats": 0,
+            "total_chats": 1,
             "join_ts": 1766696908,
             "referral_code": "56AMGGWI",
             "last_reward_ts": 0,
@@ -74,6 +74,6 @@
     "reports": [],
     "gifts": [],
     "stats": {
-        "total_chats": 4
+        "total_chats": 5
     }
 }
