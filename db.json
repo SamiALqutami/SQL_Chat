@@ -57,7 +57,7 @@
             "first_name": "M.a.a",
             "points": 47,
             "stars_balance": 0,
-            "status": "searching",
+            "status": "idle",
             "gender": "غير محدد",
             "vip_until": 0,
             "vip_level": 0,
