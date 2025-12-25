@@ -6,12 +6,12 @@
             "first_name": "Sami",
             "points": 50,
             "stars_balance": 0,
-            "status": "searching",
+            "status": "chatting",
             "gender": "غير محدد",
             "vip_until": 0,
             "vip_level": 0,
             "vip_title": "",
-            "total_chats": 2,
+            "total_chats": 3,
             "join_ts": 1766693247,
             "referral_code": "FJQ5OJVM",
             "last_reward_ts": 0,
@@ -57,6 +57,6 @@
     "reports": [],
     "gifts": [],
     "stats": {
-        "total_chats": 1
+        "total_chats": 2
     }
 }
