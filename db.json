@@ -1,18 +1,4 @@
 {
-  "users": {
-    "12345678": {
-      "name": "Sami",
-      "username": "samy_dev",
-      "points": 150,
-      "balance": 10.5,
-      "status": "active"
-    },
-    "98765432": {
-      "name": "Ali",
-      "username": "ali_user",
-      "points": 50,
-      "balance": 0,
-      "status": "idle"
-    }
-  }
+    "users": {},
+    "stats": {"total_chats": 0}
 }
