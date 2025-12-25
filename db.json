@@ -1,18 +1,10 @@
 {
-    "meta": {
-        "created_at": 1700000000,
-        "last_update": 1700000000,
-        "version": 1
-    },
     "users": {},
+    "conversations": [],
+    "games": [],
+    "reports": [],
+    "gifts": [],
     "stats": {
-        "total_chats": 0,
-        "daily_new_users": 0,
-        "total_users": 0,
-        "active_users": 0,
-        "vip_users": 0,
-        "male_users": 0,
-        "female_users": 0,
-        "searching_users": 0
+        "total_chats": 0
     }
 }
