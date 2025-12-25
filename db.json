@@ -4,7 +4,7 @@
             "user_id": 7834574830,
             "username": "SamiAlqutami",
             "first_name": "Sami",
-            "points": 50,
+            "points": 61,
             "stars_balance": 0,
             "status": "chatting",
             "gender": "غير محدد",
@@ -15,7 +15,8 @@
             "join_ts": 1766693247,
             "referral_code": "FJQ5OJVM",
             "last_reward_ts": 0,
-            "partner": null
+            "partner": null,
+            "level": 1
         },
         "5437424172": {
             "user_id": 5437424172,
