@@ -33,6 +33,23 @@
             "referral_code": "PGXXNQ7Z",
             "last_reward_ts": 0,
             "partner": null
+        },
+        "7808916761": {
+            "user_id": 7808916761,
+            "username": "ssvv119",
+            "first_name": "Soul Friend",
+            "points": 50,
+            "stars_balance": 0,
+            "status": "idle",
+            "gender": "غير محدد",
+            "vip_until": 0,
+            "vip_level": 0,
+            "vip_title": "",
+            "total_chats": 0,
+            "join_ts": 1766693364,
+            "referral_code": "9PYMDG59",
+            "last_reward_ts": 0,
+            "partner": null
         }
     },
     "conversations": [],
