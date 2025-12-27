@@ -324,6 +324,21 @@
             "total_ratings": 0,
             "partner": null,
             "join_ts": 1766831627
+        },
+        "6850816707": {
+            "user_id": 6850816707,
+            "username": "",
+            "first_name": "لؤي",
+            "points": 50,
+            "status": "idle",
+            "gender": "غير محدد",
+            "age": "غير محدد",
+            "country": "غير محدد",
+            "vip_until": 0,
+            "rating_sum": 0,
+            "total_ratings": 0,
+            "partner": null,
+            "join_ts": 1766831629
         }
     },
     "conversations": [],
