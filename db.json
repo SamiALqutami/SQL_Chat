@@ -339,6 +339,21 @@
             "total_ratings": 0,
             "partner": null,
             "join_ts": 1766831629
+        },
+        "8476782984": {
+            "user_id": 8476782984,
+            "username": "",
+            "first_name": "ااااا",
+            "points": 50,
+            "status": "idle",
+            "gender": "غير محدد",
+            "age": "غير محدد",
+            "country": "غير محدد",
+            "vip_until": 0,
+            "rating_sum": 0,
+            "total_ratings": 0,
+            "partner": null,
+            "join_ts": 1766831631
         }
     },
     "conversations": [],
