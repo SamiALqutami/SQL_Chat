@@ -429,6 +429,21 @@
             "total_ratings": 0,
             "partner": null,
             "join_ts": 1766831640
+        },
+        "6439148657": {
+            "user_id": 6439148657,
+            "username": "SDOU6",
+            "first_name": "$$$",
+            "points": 50,
+            "status": "idle",
+            "gender": "غير محدد",
+            "age": "غير محدد",
+            "country": "غير محدد",
+            "vip_until": 0,
+            "rating_sum": 0,
+            "total_ratings": 0,
+            "partner": null,
+            "join_ts": 1766831642
         }
     },
     "conversations": [],
