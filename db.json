@@ -624,6 +624,21 @@
             "total_ratings": 0,
             "partner": null,
             "join_ts": 1766845958
+        },
+        "1311994076": {
+            "user_id": 1311994076,
+            "username": "Ysomn2",
+            "first_name": "Yousef",
+            "points": 50,
+            "status": "idle",
+            "gender": "غير محدد",
+            "age": "غير محدد",
+            "country": "غير محدد",
+            "vip_until": 0,
+            "rating_sum": 0,
+            "total_ratings": 0,
+            "partner": null,
+            "join_ts": 1766849728
         }
     },
     "conversations": [],
