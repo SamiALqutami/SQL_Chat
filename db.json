@@ -444,6 +444,21 @@
             "total_ratings": 0,
             "partner": null,
             "join_ts": 1766831642
+        },
+        "7308226042": {
+            "user_id": 7308226042,
+            "username": "mrs_7707",
+            "first_name": "✞ 𝕬𝖛𝖊𝖓𝖌𝖊𝖗 ✞",
+            "points": 50,
+            "status": "idle",
+            "gender": "غير محدد",
+            "age": "غير محدد",
+            "country": "غير محدد",
+            "vip_until": 0,
+            "rating_sum": 0,
+            "total_ratings": 0,
+            "partner": null,
+            "join_ts": 1766831644
         }
     },
     "conversations": [],
