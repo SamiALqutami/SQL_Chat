@@ -474,6 +474,21 @@
             "total_ratings": 0,
             "partner": null,
             "join_ts": 1766832339
+        },
+        "605563270": {
+            "user_id": 605563270,
+            "username": "mk7cc",
+            "first_name": "Mk7...",
+            "points": 50,
+            "status": "idle",
+            "gender": "غير محدد",
+            "age": "غير محدد",
+            "country": "غير محدد",
+            "vip_until": 0,
+            "rating_sum": 0,
+            "total_ratings": 0,
+            "partner": null,
+            "join_ts": 1766834765
         }
     },
     "conversations": [],
