@@ -219,6 +219,21 @@
             "total_ratings": 0,
             "partner": null,
             "join_ts": 1766831612
+        },
+        "7061709211": {
+            "user_id": 7061709211,
+            "username": "",
+            "first_name": "Fouad",
+            "points": 50,
+            "status": "idle",
+            "gender": "غير محدد",
+            "age": "غير محدد",
+            "country": "غير محدد",
+            "vip_until": 0,
+            "rating_sum": 0,
+            "total_ratings": 0,
+            "partner": null,
+            "join_ts": 1766831613
         }
     },
     "conversations": [],
