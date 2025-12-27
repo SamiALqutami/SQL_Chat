@@ -159,6 +159,21 @@
             "total_ratings": 0,
             "partner": null,
             "join_ts": 1766831603
+        },
+        "6221931017": {
+            "user_id": 6221931017,
+            "username": "snsnk2929",
+            "first_name": "Mohmaad",
+            "points": 50,
+            "status": "idle",
+            "gender": "غير محدد",
+            "age": "غير محدد",
+            "country": "غير محدد",
+            "vip_until": 0,
+            "rating_sum": 0,
+            "total_ratings": 0,
+            "partner": null,
+            "join_ts": 1766831605
         }
     },
     "conversations": [],
