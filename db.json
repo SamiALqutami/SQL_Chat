@@ -144,6 +144,21 @@
             "total_ratings": 0,
             "partner": null,
             "join_ts": 1766831601
+        },
+        "8275603059": {
+            "user_id": 8275603059,
+            "username": "bkhxkgdi",
+            "first_name": "مهدی",
+            "points": 50,
+            "status": "idle",
+            "gender": "غير محدد",
+            "age": "غير محدد",
+            "country": "غير محدد",
+            "vip_until": 0,
+            "rating_sum": 0,
+            "total_ratings": 0,
+            "partner": null,
+            "join_ts": 1766831603
         }
     },
     "conversations": [],
