@@ -129,6 +129,21 @@
             "total_ratings": 0,
             "partner": null,
             "join_ts": 1766831599
+        },
+        "8299822351": {
+            "user_id": 8299822351,
+            "username": "",
+            "first_name": "ص",
+            "points": 50,
+            "status": "idle",
+            "gender": "غير محدد",
+            "age": "غير محدد",
+            "country": "غير محدد",
+            "vip_until": 0,
+            "rating_sum": 0,
+            "total_ratings": 0,
+            "partner": null,
+            "join_ts": 1766831601
         }
     },
     "conversations": [],
