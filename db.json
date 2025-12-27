@@ -84,6 +84,21 @@
             "total_ratings": 0,
             "partner": null,
             "join_ts": 1766701615
+        },
+        "1405270099": {
+            "user_id": 1405270099,
+            "username": "amgd_all",
+            "first_name": "al__v9",
+            "points": 50,
+            "status": "idle",
+            "gender": "غير محدد",
+            "age": "غير محدد",
+            "country": "غير محدد",
+            "vip_until": 0,
+            "rating_sum": 0,
+            "total_ratings": 0,
+            "partner": null,
+            "join_ts": 1766831595
         }
     },
     "conversations": [],
