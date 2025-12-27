@@ -564,6 +564,21 @@
             "total_ratings": 0,
             "partner": null,
             "join_ts": 1766842053
+        },
+        "6016866107": {
+            "user_id": 6016866107,
+            "username": "ASDPOWQ",
+            "first_name": "𓅗الحــر𓅈",
+            "points": 50,
+            "status": "idle",
+            "gender": "غير محدد",
+            "age": "غير محدد",
+            "country": "غير محدد",
+            "vip_until": 0,
+            "rating_sum": 0,
+            "total_ratings": 0,
+            "partner": null,
+            "join_ts": 1766843580
         }
     },
     "conversations": [],
